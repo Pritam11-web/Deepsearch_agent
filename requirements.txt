@@ -1,0 +1,13 @@
+
+uv
+tavily-python
+langchain_core
+langgraph
+langgraph-sdk
+langsmith
+typing
+typing_extensions
+pydantic
+langchain[google-genai]
+dataclasses
+google-api-python-client
